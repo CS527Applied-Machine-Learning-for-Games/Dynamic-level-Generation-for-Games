@@ -9,7 +9,7 @@ When playing games, players often begin with different skill levels and graduall
 
 ### The following video shows the demo of our project: <br />
 
-<iframe width="1265" height="480" src="https://www.youtube.com/embed/TE7l573BMaM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="580" height="320" src="https://www.youtube.com/embed/TE7l573BMaM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Here is the link to the presentation: <br />
 [Click Here](https://github.com/CS527Applied-Machine-Learning-for-Games/Dynamic-level-Generation-for-Games/blob/master/Dynamic%20Level%20Generation%20final%20review.pptx?raw=true)
